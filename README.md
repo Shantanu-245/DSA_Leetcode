@@ -13,6 +13,7 @@
 | [0152-maximum-product-subarray](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
