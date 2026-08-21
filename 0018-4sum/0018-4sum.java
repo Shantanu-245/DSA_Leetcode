@@ -8,43 +8,49 @@ class Solution {
 
         for (int i = 0; i < n - 3; i++) {
 
+            if (i > 0 && nums[i] == nums[i - 1])
+                continue;
+
             for (int j = i + 1; j < n - 2; j++) {
 
-                for (int k = j + 1; k < n - 1; k++) {
+                if (j > i + 1 && nums[j] == nums[j - 1])
+                    continue;
 
-                    long sum = (long) nums[i] + nums[j] + nums[k];
+                int k = j + 1;
+                int l = n - 1;
 
-                    long fourth = (long) target - sum;
+                while (k < l) {
 
-                    // Binary search for fourth
-                    int st = k + 1;
-                    int ed = n - 1;
+                    long sum = (long) nums[i]
+                             + nums[j]
+                             + nums[k]
+                             + nums[l];
 
-                    while (st <= ed) {
+                    if (sum == (long) target) {
 
-                        int md = st + (ed - st) / 2;
+                        List<Integer> temp = Arrays.asList(
+                            nums[i],
+                            nums[j],
+                            nums[k],
+                            nums[l]
+                        );
 
-                        if (nums[md] == fourth) {
+                        res.add(temp);
 
-                            List<Integer> curr = Arrays.asList(
-                                nums[i],
-                                nums[j],
-                                nums[k],
-                                nums[md]
-                            );
+                        while (k < l && nums[k] == nums[k + 1])
+                            k++;
 
-                            if (!res.contains(curr)) {
-                                res.add(curr);
-                            }
+                        while (k < l && nums[l] == nums[l - 1])
+                            l--;
 
-                            break;
-                        }
-
-                        if (nums[md] < fourth) {
-                            st = md + 1;
-                        } else {
-                            ed = md - 1;
-                        }
+                        k++;
+                        l--;
+                    }
+                    else if (sum < target) {
+                        k++;
+                    }
+                    else {
+                        l--;
                     }
                 }
             }
