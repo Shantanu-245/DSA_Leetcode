@@ -1,40 +1,55 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
 
+        List<List<Integer>> res = new ArrayList<>();
         int n = nums.length;
-        Set<List<Integer>> set = new HashSet<>();
 
-        for (int i = 0; i < n; i++) {
+        Arrays.sort(nums);
 
-            for (int j = i + 1; j < n; j++) {
+        for (int i = 0; i < n - 3; i++) {
 
-                Set<Long> hashset = new HashSet<>();
+            for (int j = i + 1; j < n - 2; j++) {
 
-                for (int k = j + 1; k < n; k++) {
+                for (int k = j + 1; k < n - 1; k++) {
 
                     long sum = (long) nums[i] + nums[j] + nums[k];
 
                     long fourth = (long) target - sum;
 
-                    if (hashset.contains(fourth)) {
+                    // Binary search for fourth
+                    int st = k + 1;
+                    int ed = n - 1;
 
-                        List<Integer> temp = Arrays.asList(
-                            nums[i],
-                            nums[j],
-                            nums[k],
-                            (int) fourth
-                        );
+                    while (st <= ed) {
 
-                        Collections.sort(temp);
+                        int md = st + (ed - st) / 2;
 
-                        set.add(temp);
+                        if (nums[md] == fourth) {
+
+                            List<Integer> curr = Arrays.asList(
+                                nums[i],
+                                nums[j],
+                                nums[k],
+                                nums[md]
+                            );
+
+                            if (!res.contains(curr)) {
+                                res.add(curr);
+                            }
+
+                            break;
+                        }
+
+                        if (nums[md] < fourth) {
+                            st = md + 1;
+                        } else {
+                            ed = md - 1;
+                        }
                     }
-
-                    hashset.add((long) nums[k]);
                 }
             }
         }
 
-        return new ArrayList<>(set);
+        return res;
     }
 }
