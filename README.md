@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0048-rotate-image) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
 |  |
@@ -124,4 +125,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0493-reverse-pairs) |
+## Greedy
+|  |
+| ------- |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 <!---LeetCode Topics End-->
