@@ -14,6 +14,7 @@
 | [0053-maximum-subarray](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -107,6 +108,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0704-binary-search) |
 ## Binary Indexed Tree
