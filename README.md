@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0048-rotate-image) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
 |  |
 | ------- |
