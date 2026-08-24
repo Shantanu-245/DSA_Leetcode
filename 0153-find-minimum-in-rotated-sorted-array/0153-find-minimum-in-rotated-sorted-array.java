@@ -6,10 +6,10 @@ class Solution {
         while(st <= ed){
             int md = st + (ed - st) / 2;
             
-            if(nums[st] <= nums[ed]){
-                ans = Math.min(ans, nums[st]);
-                break;
-            }
+            // if(nums[st] <= nums[ed]){
+            //     ans = Math.min(ans, nums[st]);
+            //     break;
+            // }
             if(nums[st] <= nums[md]){
                 ans = Math.min(ans, nums[st]);
                 st = md + 1;
