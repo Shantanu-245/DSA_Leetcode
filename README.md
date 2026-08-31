@@ -35,6 +35,7 @@
 | [0169-majority-element](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0229-majority-element-ii) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -139,4 +141,8 @@
 |  |
 | ------- |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
+## String
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
