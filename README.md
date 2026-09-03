@@ -33,6 +33,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Matrix
 |  |
 | ------- |
