@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0048-rotate-image) |
+| [0836-rectangle-overlap](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -224,4 +225,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
