@@ -30,6 +30,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0493-reverse-pairs) |
+| [0525-contiguous-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0704-binary-search) |
@@ -51,6 +52,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0229-majority-element-ii) |
+| [0525-contiguous-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -143,6 +145,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3904-smallest-stable-index-ii) |
