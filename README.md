@@ -38,6 +38,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1901-find-a-peak-element-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -78,6 +79,7 @@
 | [0088-merge-sorted-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0229-majority-element-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Quicksort
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1833-maximum-ice-cream-bars](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 ## String
@@ -248,4 +251,8 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
