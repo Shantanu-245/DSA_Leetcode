@@ -29,6 +29,7 @@
 | [0229-majority-element-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0493-reverse-pairs) |
@@ -148,11 +149,13 @@
 | [0054-spiral-matrix](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1901-find-a-peak-element-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -220,6 +223,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Linked List
 |  |
 | ------- |
