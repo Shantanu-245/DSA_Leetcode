@@ -38,6 +38,7 @@
 | [0704-binary-search](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -154,6 +155,7 @@
 | [0410-split-array-largest-sum](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
