@@ -130,6 +130,7 @@
 | [0152-maximum-product-subarray](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1143-longest-common-subsequence](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -229,6 +230,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [1143-longest-common-subsequence](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Design
@@ -288,4 +290,8 @@
 |  |
 | ------- |
 | [2090-k-radius-subarray-averages](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2090-k-radius-subarray-averages) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
