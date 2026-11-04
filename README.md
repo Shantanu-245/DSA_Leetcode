@@ -49,6 +49,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1901-find-a-peak-element-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2090-k-radius-subarray-averages](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -283,4 +284,8 @@
 |  |
 | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [2090-k-radius-subarray-averages](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2090-k-radius-subarray-averages) |
 <!---LeetCode Topics End-->
