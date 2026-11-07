@@ -54,6 +54,7 @@
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3719-longest-balanced-subarray-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -69,6 +70,7 @@
 | [0525-contiguous-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3719-longest-balanced-subarray-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -111,6 +113,7 @@
 | [0169-majority-element](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0493-reverse-pairs) |
+| [3719-longest-balanced-subarray-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -180,6 +183,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2574-left-and-right-sum-differences](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3719-longest-balanced-subarray-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -212,6 +216,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0493-reverse-pairs) |
+| [3719-longest-balanced-subarray-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
