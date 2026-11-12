@@ -55,6 +55,7 @@
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -158,6 +159,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -252,6 +254,7 @@
 | [1143-longest-common-subsequence](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Design
 |  |
