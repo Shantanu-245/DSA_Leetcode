@@ -39,6 +39,7 @@
 | [0704-binary-search](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -70,6 +71,7 @@
 | [0229-majority-element-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -179,6 +181,7 @@
 | [0525-contiguous-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
