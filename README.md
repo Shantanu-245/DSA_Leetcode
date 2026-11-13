@@ -54,6 +54,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2256-minimum-average-difference](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2256-minimum-average-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -190,6 +191,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2256-minimum-average-difference](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2256-minimum-average-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
