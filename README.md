@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -172,6 +174,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
