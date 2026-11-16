@@ -146,6 +146,7 @@
 | [0152-maximum-product-subarray](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1143-longest-common-subsequence) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Simulation
@@ -258,6 +259,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
