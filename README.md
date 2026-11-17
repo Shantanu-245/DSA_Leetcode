@@ -149,6 +149,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1143-longest-common-subsequence) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Simulation
@@ -264,6 +265,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -333,6 +335,7 @@
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Enumeration
 |  |
