@@ -56,6 +56,7 @@
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2256-minimum-average-difference](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2256-minimum-average-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -106,6 +107,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -258,6 +260,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## String
 |  |
 | ------- |
