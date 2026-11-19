@@ -66,6 +66,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [4044-count-good-cyclic-rotations](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/4044-count-good-cyclic-rotations) |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
 ## Quicksort
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | [0493-reverse-pairs](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
 ## Counting
 |  |
 | ------- |
@@ -234,17 +237,20 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0493-reverse-pairs) |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
 ## Merge Sort
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
 ## Ordered Set
 |  |
 | ------- |
@@ -261,6 +267,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
 ## String
 |  |
 | ------- |
