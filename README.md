@@ -33,6 +33,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0474-ones-and-zeroes](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -151,6 +152,7 @@
 | [0152-maximum-product-subarray](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0474-ones-and-zeroes](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -272,6 +274,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -351,4 +354,12 @@
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/3713-longest-balanced-substring-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0474-ones-and-zeroes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
