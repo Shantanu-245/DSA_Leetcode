@@ -44,6 +44,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -171,6 +172,7 @@
 | [0048-rotate-image](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
@@ -201,6 +203,7 @@
 | [0724-find-pivot-index](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -289,6 +292,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -362,4 +366,8 @@
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0474-ones-and-zeroes) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
