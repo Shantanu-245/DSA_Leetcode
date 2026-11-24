@@ -16,6 +16,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0118-pascals-triangle) |
@@ -340,6 +341,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0078-subsets) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 ## Sliding Window
 |  |
@@ -370,4 +372,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shantanu-245/DSA_Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
